@@ -1,1 +1,1 @@
-Hello!, Welcome to my portfolio. i have worked on a database using POSTGRESQL, plrasr feel free to go throygh it and contact me for QUestions and more information. thank you, Bye. 
+Hello!, Welcome to my portfolio. I have worked on a database using POSTGRESQL, please feel free to go through it and contact me for Questions and more information. thank you, Bye. saintwondertemilolu@gmail.com
