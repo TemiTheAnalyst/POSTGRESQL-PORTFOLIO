@@ -1,5 +1,4 @@
----select statement
-
+---This project was completed as a part of 10alytics introduction to POSTGRESQL course. For this project i extracted columns from a DVDrentals database 
 SELECT * --#everything
 FROM actor
 
@@ -17,7 +16,7 @@ FROM film
 SELECT DISTINCT rating 
 FROM film
 
----LIMIT helps filter rows or limit the no of rows you see. e.g, top 5 actors,etc
+---LIMIT helps filter rows or limit the no of rows you see
 SELECT *
 FROM customer
 LIMIT 4
@@ -33,7 +32,7 @@ FROM payment
 ORDER BY amount DESC
 LIMIT 10;
 
---WHERE CLAUSE; AND, iN, BETWEEN,>, >, =, !=.
+--WHERE CLAUSE
 SELECT customer_id, First_name, Last_name
 FROM customer
 WHERE first_name = 'Jamie' AND last_name = 'rice'
