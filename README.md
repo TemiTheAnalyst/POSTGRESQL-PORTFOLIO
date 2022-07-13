@@ -1,1 +1,1 @@
-Hello!, Welcome to my portfolio. Check out my Queries done using POSTGRESQL, please feel free to go through it and contact me for Questions and more information. thank you, Bye. saintwondertemilolu@gmail.com
+Hello, Welcome to my SQL portfolio. This code repository contains examples of PostgreSQL codes I have written. Feel freee to look around and send me an email for further questions and information. saintwondertemilolu@gmail.com
